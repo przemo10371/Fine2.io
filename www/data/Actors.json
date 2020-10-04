@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"rozchan","classId":1,"equips":[0,3,2],"faceIndex":0,"faceName":"rozcchan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roz-chan","nickname":"","note":"","profile":"A girl in training! But... training for what?"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"mizuho","classId":2,"equips":[0,0,0,0],"faceIndex":0,"faceName":"mizuho","traits":[],"initialLevel":1,"maxLevel":20,"name":"Mizuho","nickname":"Ms. Mizuho","note":"","profile":"A kind hearted, space-case teacher!"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"sigrun","classId":3,"equips":[0,0,0,0],"faceIndex":7,"faceName":"Sigrun","traits":[],"initialLevel":1,"maxLevel":20,"name":"Sigrun","nickname":"","note":"","profile":"She means well, even though she's foul-mouthed."},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"kashima","classId":1,"equips":[0,0,0,0],"faceIndex":0,"faceName":"kashima","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kashima","nickname":"","note":"","profile":"A shy part-time librarian!"},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"hildr","classId":4,"equips":[4,10,12,11,0],"faceIndex":1,"faceName":"hildr","traits":[],"initialLevel":99,"maxLevel":99,"name":"Hildr","nickname":"","note":"","profile":"A legendary monarch blessed by the god of thunder."},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"thalia2","classId":5,"equips":[5,3,9,0,0],"faceIndex":0,"faceName":"thalia1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Thalia","nickname":"Innocent Succubus","note":"","profile":"An innocent, yet extremely thirsty succubus. Please do not\nbully me."},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
